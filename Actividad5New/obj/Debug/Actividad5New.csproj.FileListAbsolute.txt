@@ -1,0 +1,17 @@
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\bin\Debug\Actividad5New.exe.config
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\bin\Debug\Actividad5New.exe
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\bin\Debug\Actividad5New.pdb
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.csprojAssemblyReference.cache
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.Form1.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.Properties.Resources.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.TablaMulti.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.csproj.GenerateResource.cache
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.csproj.CoreCompileInputs.cache
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.exe
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.pdb
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.GeneradorNumerico.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.NumerosPares.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.NumerosInP.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.PRIMOS.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.ConversorMonedas.resources
+C:\Users\Darkness\source\repos\Actividad5New\Actividad5New\obj\Debug\Actividad5New.Grados.resources
